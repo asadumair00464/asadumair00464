@@ -21,7 +21,7 @@
 <a href="http://www.linkedin.com/in/asad-umair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-mubashir-saeedi-57219b247" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61552418152494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubashir saeedi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/au00464/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashirkhi72" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC7SKnaCCSVx3KSfR17fatwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad mubashir saeedi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@asadumair2638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad mubashir saeedi" height="30" width="40" /></a>
 
 </p>
 
